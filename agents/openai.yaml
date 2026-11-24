@@ -1,0 +1,4 @@
+interface:
+  display_name: "律稿续写"
+  short_description: "依据历审案卷及已确认策略起草二审答辩状、再审答辩状和再审申请书"
+  default_prompt: "使用 $litigation-pleading-writer 处理这些民事案卷。先判断是否已经明确拟写文书、我方主体、材料时点和当前交付阶段。"
