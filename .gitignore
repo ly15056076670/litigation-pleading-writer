@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+/case-files/
+/cases/
+/inputs/
+/work/
+/outputs/
+/visual-check/
+*.docx
+*.pdf
+*.local.json
+quotes.json
